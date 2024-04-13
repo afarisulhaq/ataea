@@ -8,7 +8,7 @@
 # //  email          : budi.tejosari@gmail.com
 # //  telegram       : https://t.me/budi_spielberg
 # //====================================================
-REPO="https://raw.githubusercontent.com/yBh1ZaSVDsdgDdgHDddDgdgdhSGsdGbWseMP/v3.0lts/main/"
+REPO="https://raw.githubusercontent.com/afarisulhaq/ataea/main/"
 wget -q -O /etc/systemd/system/limitvmess.service "${REPO}limit/limitvmess.service" && chmod +x limitvmess.service >/dev/null 2>&1
 wget -q -O /etc/systemd/system/limitvless.service "${REPO}limit/limitvless.service" && chmod +x limitvless.service >/dev/null 2>&1
 wget -q -O /etc/systemd/system/limittrojan.service "${REPO}limit/limittrojan.service" && chmod +x limittrojan.service >/dev/null 2>&1
