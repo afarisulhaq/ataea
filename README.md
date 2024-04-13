@@ -2,7 +2,7 @@
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/yBh1ZaSVDsdgDdgHDddDgdgdhSGsdGbWseMP/v3.0lts/main/premi.sh && chmod +x premi.sh && ./premi.sh
+apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/afarisulhaq/ataea/main/premi.sh && chmod +x premi.sh && ./premi.sh
 ```
 
 
